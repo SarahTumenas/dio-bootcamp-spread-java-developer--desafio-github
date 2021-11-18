@@ -3,6 +3,7 @@
 ## Repositório criado para compartilhar Desafios, Estudos e Projetos:
 
 - Desafio Git/GitHub : criando seu primeiro repositório;
+- Dominando IDEs Java;
 - Váriáveis, Tipos de Dados e Operadores Matemáticos em Java : o que são variáveis e como manipulá-las;
 - Lógica Condicional e Controle de Fluxos em Java : operadores lógicos e relacionais com utilização em controle de fluxo/decisão;
 - ...
