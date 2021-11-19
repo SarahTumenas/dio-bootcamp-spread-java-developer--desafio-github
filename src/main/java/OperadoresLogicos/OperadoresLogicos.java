@@ -17,7 +17,6 @@ public class OperadoresLogicos {
         System.out.println("! b1: " + (!b1));
         System.out.println("! b2: " + (!b2));
 
-
         int i1 = 10;
         int i2 = 5;
         float f1 = 20f;
