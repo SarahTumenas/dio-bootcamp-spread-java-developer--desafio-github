@@ -13,6 +13,7 @@ tabuada do 5:
 
  */
 
+
 import java.util.Scanner;
 
 public class Tabuada {

@@ -26,4 +26,5 @@ public class Fatorial {
 
         System.out.println(numero + "!= " + multiplicacao);
     }
+
 }
